@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.light{
+    background-color: aquamarine;
+    color: #810808;
+}
+
+.dark{
+    background-color: #810808;
+    color: aquamarine;
+}
